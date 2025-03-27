@@ -20,4 +20,4 @@ Dev-Lua (FiveM)
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </div>
 
-![Snake animation]
+![Snake animation](https://github.com/chaseg-dev/chaseg-dev/blob/output/github-contribution-grid-snake.svg)
