@@ -3,8 +3,8 @@
 Dev-FrontEnd <br>
 Dev-Lua (FiveM)
 <div style="display:inline_block">
-<img height="105em" width="auto" src="https://github-readme-stats.vercel.app/api?username=chaseg-dev&show_icons=true&theme=tokyonight"/>
-<img height="105em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaseg-dev&theme=tokyonight"/>
+<img height="105em" width="auto" src="https://github-readme-stats.vercel.app/api?username=devchas3&show_icons=true&theme=tokyonight"/>
+<img height="105em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devchas3&theme=tokyonight"/>
 </div>
 <div style="display:inline_block"><br>
 <img align="center" alt="chase-lua" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
