@@ -1,7 +1,7 @@
 ## Olá me chamo Gustavo 👋 
 
-Dev-FrontEnd <br>
-Dev-Lua (FiveM)
+Dev-Full Stack <br>
+Dev-Lua
 <div style="display:inline_block">
 <img height="105em" width="auto" src="https://github-readme-stats.vercel.app/api?username=devchas3&show_icons=true&theme=tokyonight"/>
 <img height="105em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devchas3&theme=tokyonight"/>
@@ -12,6 +12,8 @@ Dev-Lua (FiveM)
 <img align="center" alt="chase-py" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="center" alt="chase-js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="center" alt="chase-py" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="center" alt="chase-py" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" />
+
 </div>
 
 ##
